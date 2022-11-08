@@ -1,1 +1,1 @@
-# Cerberus
+Documentation with more updates coming soon.
